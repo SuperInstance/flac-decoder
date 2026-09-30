@@ -1,9 +1,11 @@
 [package]
 name = "flac-decoder"
 version = "0.1.0"
-description = "A Rust library for Flac Decoder"
+description = "Flac Decoder — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/flac-decoder"
+repository = "https://github.com/SuperInstance/flac-decoder"
 edition = "2021"
+
+keywords = ["flac-decoder"]
 
 [dependencies]
